@@ -19,7 +19,7 @@ If you are interested in getting to know me, please follow my [Linkedin](https:/
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/hisyamfadhil">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hisyamfadhil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="2000em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hisyamfadhil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hisyamfadhil&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
